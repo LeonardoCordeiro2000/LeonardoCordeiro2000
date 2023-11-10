@@ -8,7 +8,7 @@
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoCordeiro2000&show_icons=true&theme=radical&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCordeiro2000&bg_color=00000000&size_weight=0.5&count_weight=0.5)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCordeiro2000&bg_color=00000000&size_weight=0.5&count_weight=0.5)
 ## Contact
 
 <div style="display: inline_block"><br/>
