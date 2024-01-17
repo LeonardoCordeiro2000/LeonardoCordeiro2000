@@ -15,7 +15,4 @@
     <img aling="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="https://www.upwork.com/freelancers/~01c546bfa5fe9f72a6">
-    <img aling="center" alt="UpWork" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
-  </a>
 </div><br/>
